@@ -1,0 +1,24 @@
+{
+  "originHash" : "655fd889541a2b68709f4d63cedc8f96e31000bac7dca0d4c04cd84a030bb5e6",
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire",
+      "state" : {
+        "revision" : "f455c2975872ccd2d9c81594c658af65716e9b9a",
+        "version" : "5.9.1"
+      }
+    },
+    {
+      "identity" : "webviewkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/danielsaidi/WebViewKit.git",
+      "state" : {
+        "revision" : "04fcd86336f4d254f0967b8cc7023af29dd7adce",
+        "version" : "0.4.0"
+      }
+    }
+  ],
+  "version" : 3
+}
